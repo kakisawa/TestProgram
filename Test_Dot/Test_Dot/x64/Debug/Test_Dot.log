@@ -1,0 +1,16 @@
+﻿  Check.cpp
+C:\Users\川﨑美琴\Documents\GitHub\01.PersonalProduction\Test_Dot\Check.cpp(22,21): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\川﨑美琴\Documents\GitHub\01.PersonalProduction\Test_Dot\Check.cpp(22,16): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\川﨑美琴\Documents\GitHub\01.PersonalProduction\Test_Dot\Check.cpp(33,31): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\川﨑美琴\Documents\GitHub\01.PersonalProduction\Test_Dot\Check.cpp(33,27): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\川﨑美琴\Documents\GitHub\01.PersonalProduction\Test_Dot\Check.cpp(33,18): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\川﨑美琴\Documents\GitHub\01.PersonalProduction\Test_Dot\Check.cpp(34,30): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\川﨑美琴\Documents\GitHub\01.PersonalProduction\Test_Dot\Check.cpp(104,8): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\川﨑美琴\Documents\GitHub\01.PersonalProduction\Test_Dot\Check.cpp(104,4): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\川﨑美琴\Documents\GitHub\01.PersonalProduction\Test_Dot\Check.cpp(103,8): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\川﨑美琴\Documents\GitHub\01.PersonalProduction\Test_Dot\Check.cpp(103,4): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\川﨑美琴\Documents\GitHub\01.PersonalProduction\Test_Dot\Check.cpp(102,20): warning C4244: '引数': 'const float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\川﨑美琴\Documents\GitHub\01.PersonalProduction\Test_Dot\Check.cpp(102,10): warning C4244: '引数': 'const float' から 'int' への変換です。データが失われる可能性があります。
+  Main.cpp
+  コードを生成中...
+  Test_Dot.vcxproj -> C:\Users\川﨑美琴\Documents\GitHub\01.PersonalProduction\Test_Dot\x64\Debug\Test_Dot.exe
