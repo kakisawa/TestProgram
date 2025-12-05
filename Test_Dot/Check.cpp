@@ -10,7 +10,8 @@ Check::Check(Input& input) :
 	m_input(input),
 	m_pos(kInitVec),
 	m_move(kInitVec),
-	m_dir(kInitVec)
+	m_dir(kInitVec),
+	m_enemyPos(kInitVec)
 {
 
 }
@@ -19,7 +20,8 @@ void Check::Init()
 {
 	int x = 0, y = 0;
 	GetWindowSize(&x, &y);
-	m_pos = VGet(x/2, y/2, 0.0f);
+	m_pos = VGet(x / 2, y / 2, 0.0f);
+	m_enemyPos = VGet(x / 2 + 100.0f, y / 2, 0.0f);
 }
 
 void Check::Update()
@@ -30,8 +32,9 @@ void Check::Update()
 
 void Check::Draw()
 {
-	DrawCircle(m_pos.x, m_pos.y, 10.0f, 0xffffff, true);
 	DrawFan(m_pos, m_dir, DX_PI / 3.0f, 50.0f, 0xff00ff);
+	DrawCircle(m_pos.x, m_pos.y, 10.0f, 0xffffff, true);
+	DrawCircle(m_enemyPos.x, m_enemyPos.y, 10.0f, 0xffff00, true);
 }
 
 void Check::End()
@@ -106,4 +109,8 @@ void Check::DrawFan(const VECTOR& center, const VECTOR& dir, float angle, float 
 			true                  // 塗りつぶす
 		);
 	}
+}
+
+void Check::Collision()
+{
 }

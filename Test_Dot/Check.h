@@ -50,11 +50,17 @@ public:
 	/// <param name="color">•`‰æF</param>
 	void DrawFan(const VECTOR& center, const VECTOR& dir, float angle, float radius, unsigned int color);
 
+	/// <summary>
+	/// “–‚½‚è”»’è
+	/// </summary>
+	void Collision();
 
 private:
 	VECTOR m_pos;	// À•W
 	VECTOR m_move;	// ˆÚ“®—Ê
 	VECTOR m_dir;	// Œü‚¢‚Ä‚é•ûŒü
+
+	VECTOR m_enemyPos;	// “G‚ÌÀ•W
 
 	Input& m_input;
 };
