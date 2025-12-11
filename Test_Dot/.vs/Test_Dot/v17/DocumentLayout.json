@@ -1,21 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u5DDD\uFA11\u7F8E\u7434\\Documents\\GitHub\\01.PersonalProduction\\TestProgram\\Test_Dot\\",
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Documents\\GitHub\\01,PersonalProduction\\TestProgram\\Test_Dot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A2DA803-BB81-479B-B998-F7DBCAA8BC2F}|Test_Dot.vcxproj|C:\\Users\\\u5DDD\uFA11\u7F8E\u7434\\Documents\\GitHub\\01.PersonalProduction\\TestProgram\\Test_Dot\\Collision.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3A2DA803-BB81-479B-B998-F7DBCAA8BC2F}|Test_Dot.vcxproj|solutionrelative:Collision.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A2DA803-BB81-479B-B998-F7DBCAA8BC2F}|Test_Dot.vcxproj|C:\\Users\\\u5DDD\uFA11\u7F8E\u7434\\Documents\\GitHub\\01.PersonalProduction\\TestProgram\\Test_Dot\\Check.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3A2DA803-BB81-479B-B998-F7DBCAA8BC2F}|Test_Dot.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\01,PersonalProduction\\TestProgram\\Test_Dot\\Check.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3A2DA803-BB81-479B-B998-F7DBCAA8BC2F}|Test_Dot.vcxproj|solutionrelative:Check.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A2DA803-BB81-479B-B998-F7DBCAA8BC2F}|Test_Dot.vcxproj|C:\\Users\\\u5DDD\uFA11\u7F8E\u7434\\Documents\\GitHub\\01.PersonalProduction\\TestProgram\\Test_Dot\\Check.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3A2DA803-BB81-479B-B998-F7DBCAA8BC2F}|Test_Dot.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\01,PersonalProduction\\TestProgram\\Test_Dot\\Collision.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A2DA803-BB81-479B-B998-F7DBCAA8BC2F}|Test_Dot.vcxproj|solutionrelative:Collision.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2DA803-BB81-479B-B998-F7DBCAA8BC2F}|Test_Dot.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\01,PersonalProduction\\TestProgram\\Test_Dot\\Collision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A2DA803-BB81-479B-B998-F7DBCAA8BC2F}|Test_Dot.vcxproj|solutionrelative:Collision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2DA803-BB81-479B-B998-F7DBCAA8BC2F}|Test_Dot.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\01,PersonalProduction\\TestProgram\\Test_Dot\\Check.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3A2DA803-BB81-479B-B998-F7DBCAA8BC2F}|Test_Dot.vcxproj|solutionrelative:Check.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A2DA803-BB81-479B-B998-F7DBCAA8BC2F}|Test_Dot.vcxproj|C:\\Users\\\u5DDD\uFA11\u7F8E\u7434\\Documents\\GitHub\\01.PersonalProduction\\TestProgram\\Test_Dot\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3A2DA803-BB81-479B-B998-F7DBCAA8BC2F}|Test_Dot.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\01,PersonalProduction\\TestProgram\\Test_Dot\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A2DA803-BB81-479B-B998-F7DBCAA8BC2F}|Test_Dot.vcxproj|solutionrelative:Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2DA803-BB81-479B-B998-F7DBCAA8BC2F}|Test_Dot.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\01,PersonalProduction\\TestProgram\\Test_Dot\\Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A2DA803-BB81-479B-B998-F7DBCAA8BC2F}|Test_Dot.vcxproj|solutionrelative:Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2DA803-BB81-479B-B998-F7DBCAA8BC2F}|Test_Dot.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\01,PersonalProduction\\TestProgram\\Test_Dot\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3A2DA803-BB81-479B-B998-F7DBCAA8BC2F}|Test_Dot.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -26,58 +38,106 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Collision.h",
-              "DocumentMoniker": "C:\\Users\\\u5DDD\uFA11\u7F8E\u7434\\Documents\\GitHub\\01.PersonalProduction\\TestProgram\\Test_Dot\\Collision.h",
-              "RelativeDocumentMoniker": "Collision.h",
-              "ToolTip": "C:\\Users\\\u5DDD\uFA11\u7F8E\u7434\\Documents\\GitHub\\01.PersonalProduction\\TestProgram\\Test_Dot\\Collision.h",
-              "RelativeToolTip": "Collision.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-05T02:53:46.734Z",
+              "DocumentIndex": 4,
+              "Title": "Input.cpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\01,PersonalProduction\\TestProgram\\Test_Dot\\Input.cpp",
+              "RelativeDocumentMoniker": "Input.cpp",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\01,PersonalProduction\\TestProgram\\Test_Dot\\Input.cpp",
+              "RelativeToolTip": "Input.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T02:58:51.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Input.h",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\01,PersonalProduction\\TestProgram\\Test_Dot\\Input.h",
+              "RelativeDocumentMoniker": "Input.h",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\01,PersonalProduction\\TestProgram\\Test_Dot\\Input.h",
+              "RelativeToolTip": "Input.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T02:58:47.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Collision.cpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\01,PersonalProduction\\TestProgram\\Test_Dot\\Collision.cpp",
+              "RelativeDocumentMoniker": "Collision.cpp",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\01,PersonalProduction\\TestProgram\\Test_Dot\\Collision.cpp",
+              "RelativeToolTip": "Collision.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T02:57:44.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Check.h",
-              "DocumentMoniker": "C:\\Users\\\u5DDD\uFA11\u7F8E\u7434\\Documents\\GitHub\\01.PersonalProduction\\TestProgram\\Test_Dot\\Check.h",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\01,PersonalProduction\\TestProgram\\Test_Dot\\Check.h",
               "RelativeDocumentMoniker": "Check.h",
-              "ToolTip": "C:\\Users\\\u5DDD\uFA11\u7F8E\u7434\\Documents\\GitHub\\01.PersonalProduction\\TestProgram\\Test_Dot\\Check.h",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\01,PersonalProduction\\TestProgram\\Test_Dot\\Check.h",
               "RelativeToolTip": "Check.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-12-05T02:45:35.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Check.cpp",
-              "DocumentMoniker": "C:\\Users\\\u5DDD\uFA11\u7F8E\u7434\\Documents\\GitHub\\01.PersonalProduction\\TestProgram\\Test_Dot\\Check.cpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\01,PersonalProduction\\TestProgram\\Test_Dot\\Check.cpp",
               "RelativeDocumentMoniker": "Check.cpp",
-              "ToolTip": "C:\\Users\\\u5DDD\uFA11\u7F8E\u7434\\Documents\\GitHub\\01.PersonalProduction\\TestProgram\\Test_Dot\\Check.cpp",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\01,PersonalProduction\\TestProgram\\Test_Dot\\Check.cpp",
               "RelativeToolTip": "Check.cpp",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAjwHEAAAAVAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-05T02:44:55.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\\u5DDD\uFA11\u7F8E\u7434\\Documents\\GitHub\\01.PersonalProduction\\TestProgram\\Test_Dot\\Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\01,PersonalProduction\\TestProgram\\Test_Dot\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
-              "ToolTip": "C:\\Users\\\u5DDD\uFA11\u7F8E\u7434\\Documents\\GitHub\\01.PersonalProduction\\TestProgram\\Test_Dot\\Main.cpp",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\01,PersonalProduction\\TestProgram\\Test_Dot\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
               "ViewState": "AQIAAAwAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-05T02:44:49.719Z",
+              "WhenOpened": "2025-12-05T02:44:49.719Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Collision.h",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\01,PersonalProduction\\TestProgram\\Test_Dot\\Collision.h",
+              "RelativeDocumentMoniker": "Collision.h",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\01,PersonalProduction\\TestProgram\\Test_Dot\\Collision.h",
+              "RelativeToolTip": "Collision.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-05T02:53:46.734Z",
               "EditorCaption": ""
             }
           ]
