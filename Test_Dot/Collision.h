@@ -13,7 +13,28 @@ struct ColCapsule {
 	VECTOR m_vertexPos;	// í∏ì_ç¿ïW
 };
 
+struct PlayerCol {
+
+};
+
+struct EnemyCol {
+};
+
+
 class Collision
 {
+public:
+	Collision();
+	virtual ~Collision() {}
+
+	void Init();
+	void Update();
+	void Draw();
+	void End();
+
+
+
+private:
+
 };
 
