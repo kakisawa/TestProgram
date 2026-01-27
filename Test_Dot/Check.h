@@ -2,6 +2,7 @@
 #include "DxLib.h"
 
 class Input;
+class Collision;
 class Check
 {
 public:

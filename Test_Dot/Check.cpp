@@ -1,5 +1,6 @@
 ﻿#include "Check.h"
 #include "Input.h"
+#include "collection.h"
 
 namespace {
 	constexpr float kSpeed = 1.0f;
@@ -13,7 +14,7 @@ Check::Check(Input& input) :
 	m_dir(kInitVec),
 	m_enemyPos(kInitVec)
 {
-
+	
 }
 
 void Check::Init()
